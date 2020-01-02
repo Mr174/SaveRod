@@ -1,0 +1,12 @@
+name: SaveRod
+main: sr\SRMain
+version: 1.0
+api: 3.0.0
+author: Mr174
+website: https://github.com/Mr174
+
+commands:
+  sr:
+    description: "{playerName}"
+    usage: "{playerName}"
+    permission: sr.give
